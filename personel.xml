@@ -1,0 +1,9 @@
+<personel>
+    <id>1</id>
+    <ad>Ayşe</ad>
+    <soyad>Yılmaz</soyad>
+    <email>ayse.yilmaz@example.com</email>
+    <telefon>+90555666661114567</telefon>
+    <departman>İK</departman>
+    <iseGirisTarihi>2020-01-15</iseGirisTarihi>
+</personel>

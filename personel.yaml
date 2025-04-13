@@ -1,0 +1,8 @@
+personel:
+  id: 1
+  ad: Ayşe
+  soyad: Yılmaz
+  email: ayse.yilmaz@example.com
+  telefon: "+90555666661114567"
+  departman: İK
+  iseGirisTarihi: "2020-01-15"

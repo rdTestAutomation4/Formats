@@ -1,0 +1,7 @@
+id: Personelin kimliği (integer)
+ad: Personelin adı (string)
+soyad: Personelin soyadı (string)
+email: Personelin e-posta adresi (string)
+telefon: Personelin telefon numarası (string)
+departman: Personelin çalıştığı departman (string)
+iseGirisTarihi: Personelin işe giriş tarihi (tarih)
